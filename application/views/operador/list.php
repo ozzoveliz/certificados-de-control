@@ -55,4 +55,5 @@
             </tfoot>
         </table>
     </div>
+    <a href="<?php echo base_url('operador/nuevo'); ?>" class="button special">Nuevo</a>
 </section>
